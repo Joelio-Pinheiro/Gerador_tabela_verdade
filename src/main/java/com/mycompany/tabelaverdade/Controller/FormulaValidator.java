@@ -1,4 +1,4 @@
-package com.mycompany.tabelaverdade.Model;
+package com.mycompany.tabelaverdade.Controller;
 
 import java.util.HashMap;
 import java.util.Stack;

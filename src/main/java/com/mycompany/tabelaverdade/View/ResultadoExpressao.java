@@ -7,7 +7,7 @@ package com.mycompany.tabelaverdade.View;
 import com.mycompany.tabelaverdade.Controller.CalculadoraController;
 import com.mycompany.tabelaverdade.utils.Util;
 import com.mycompany.tabelaverdade.Model.Formula;
-import com.mycompany.tabelaverdade.Model.FormulaValidator;
+import com.mycompany.tabelaverdade.Controller.FormulaValidator;
 import com.mycompany.tabelaverdade.Model.LogicValue;
 import java.util.HashMap;
 import java.util.HashSet;

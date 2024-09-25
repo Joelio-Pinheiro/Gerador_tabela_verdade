@@ -1,6 +1,6 @@
 package com.mycompany.tabelaverdade.Model;
 
-import com.mycompany.tabelaverdade.Model.FormulaValidator;
+import com.mycompany.tabelaverdade.Controller.FormulaValidator;
 import com.mycompany.tabelaverdade.Model.LogicOperations;
 import java.util.HashMap;
 import java.util.Stack;

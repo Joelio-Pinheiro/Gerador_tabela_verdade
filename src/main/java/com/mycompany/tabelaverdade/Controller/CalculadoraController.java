@@ -11,7 +11,6 @@ package com.mycompany.tabelaverdade.Controller;
 import com.mycompany.tabelaverdade.Model.FormulaRepository;
 import java.util.ArrayList;
 import com.mycompany.tabelaverdade.Model.Formula;
-import com.mycompany.tabelaverdade.Model.FormulaValidator;
 import com.mycompany.tabelaverdade.Model.LogicValue;
 import com.mycompany.tabelaverdade.utils.Util;
 import javax.swing.table.DefaultTableModel;
